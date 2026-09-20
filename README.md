@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/wh-banner.jpg" alt="WebHawk — HTTP / HTTPS attack-surface mapper" width="100%">
+</p>
+
 # WebHawk
 
 **Version 2.1.0** — HTTP/HTTPS attack-surface mapper for **authorized** assessments.
@@ -12,6 +16,9 @@ python webhawk.py 127.0.0.1 lab.local
 python webhawk.py -l targets.txt --save-urls live.txt --save-source pages/
 python webhawk.py 127.0.0.1 --user-agent agents.txt --paths paths.txt -H headers.txt
 ```
+
+## Preview
+![webhawk](images/webhawk.png)
 
 ## Rules of engagement
 
