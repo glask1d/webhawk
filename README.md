@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="webhawk-banner.jpg" alt="WebHawk — HTTP / HTTPS attack-surface mapper" width="100%">
+  <img src="images/wh-banner.jpg" alt="WebHawk — HTTP / HTTPS attack-surface mapper" width="100%">
 </p>
 
 # WebHawk
