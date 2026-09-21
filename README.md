@@ -33,6 +33,11 @@ Defaults stay small on purpose:
 
 `--i-own-this` is still accepted as an alias for `--authorized`.
 
+
+## Preview
+![webhawk](images/webhawk.png)
+
+
 ## Install
 
 Python 3.10+ recommended.
